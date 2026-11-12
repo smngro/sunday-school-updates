@@ -1,6 +1,6 @@
 {
- "version": "2026.11.12.10",
+ "version": "2026.11.12.13",
  "url": "sunday-school.zip",
- "sha256": "efb6a0c5aede11adf145dd8235a0b92b8e608d818e828f22a1363f6b57cf182e",
- "notes": "Department moves keep meeting history; class value kept; form shows all departments"
+ "sha256": "e12987cdf9256d355f651e617809258a8c3d130700a0a0ba06c662834dca5a3d",
+ "notes": "ID numbers are never reused; department roles checked"
 }
