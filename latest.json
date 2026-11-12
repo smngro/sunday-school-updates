@@ -1,6 +1,6 @@
 {
- "version": "2026.11.12.2",
+ "version": "2026.11.12.3",
  "url": "sunday-school.zip",
- "sha256": "b2486dfb86b4c405cca9b9ecd3026efb8fff4f07192ad1843263cd8689eefda5",
- "notes": "Close button (✕) on the USB backup reminder"
+ "sha256": "68957eaf3f80c7e0b3605d02f489cfd3bdf3a7a2de403181a93fb3847830cbe6",
+ "notes": "USB reminder: ✕ closes it; it shows again next time the app is opened"
 }
