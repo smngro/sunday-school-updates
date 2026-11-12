@@ -1,6 +1,6 @@
 {
- "version": "2026.11.12.7",
+ "version": "2026.11.12.10",
  "url": "sunday-school.zip",
- "sha256": "2a0559970b30211b1791b0488c57d9cb464da77d81dc0ebe98b5a514ab4f82cd",
- "notes": "Final review: school years for Meserete Timhirt, new-year promotion, safer attendance saving, USB privacy, restore from Settings, database health check"
+ "sha256": "efb6a0c5aede11adf145dd8235a0b92b8e608d818e828f22a1363f6b57cf182e",
+ "notes": "Department moves keep meeting history; class value kept; form shows all departments"
 }
