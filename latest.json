@@ -1,6 +1,6 @@
 {
- "version": "2026.11.12.3",
+ "version": "2026.11.12.6",
  "url": "sunday-school.zip",
- "sha256": "68957eaf3f80c7e0b3605d02f489cfd3bdf3a7a2de403181a93fb3847830cbe6",
- "notes": "USB reminder: ✕ closes it; it shows again next time the app is opened"
+ "sha256": "7d48a1d61cb0b86aab3a815ee30a08fb2e9613e6740bdfb720e9c54f7475ce51",
+ "notes": "Export to Excel, Word, Spreadsheet (.ods) and CSV in Members, Departments, Meserete Timhirt, Attendance and Reports"
 }
