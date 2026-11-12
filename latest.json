@@ -1,6 +1,6 @@
 {
- "version": "2026.11.12.13",
+ "version": "2026.11.12.15",
  "url": "sunday-school.zip",
- "sha256": "e12987cdf9256d355f651e617809258a8c3d130700a0a0ba06c662834dca5a3d",
- "notes": "ID numbers are never reused; department roles checked"
+ "sha256": "a1efc7f88ca3171af6dedc30a5e3a39fd54263b524e8e8f884fc783507240a89",
+ "notes": "Saves no longer fail when a member's ID changed on another device; ID box limit fixed"
 }
