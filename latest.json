@@ -1,6 +1,6 @@
 {
- "version": "2026.11.12.1",
+ "version": "2026.11.12.2",
  "url": "sunday-school.zip",
- "sha256": "292082b5cd3fa3523c6612ec2461faa1a7197c1725db50266dd64eb25e277d08",
- "notes": "Update system: install from file or from GitHub; USB backup; Python check; handover guide"
+ "sha256": "b2486dfb86b4c405cca9b9ecd3026efb8fff4f07192ad1843263cd8689eefda5",
+ "notes": "Close button (✕) on the USB backup reminder"
 }
